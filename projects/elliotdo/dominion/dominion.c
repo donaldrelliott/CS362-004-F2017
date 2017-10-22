@@ -117,51 +117,43 @@ int initializeGame(int numPlayers, int kingdomCards[10], int randomSeed,
 		  }
 		  else{ state->supplyCount[i] = 12; }
 		}
-	      else
-		{
+	      else {
 		  state->supplyCount[i] = 10;
 		}
 	      break;
 	    }
 	  else    //card is not in the set choosen for the game
-	    {
+    {
 	      state->supplyCount[i] = -1;
 	    }
 	}
-
     }
 
   ////////////////////////
   //supply intilization complete
 
   //set player decks
-  for (i = 0; i < numPlayers; i++)
-    {
+  for (i = 0; i < numPlayers; i++){
       state->deckCount[i] = 0;
-      for (j = 0; j < 3; j++)
-	{
+      for (j = 0; j < 3; j++){
 	  state->deck[i][j] = estate;
 	  state->deckCount[i]++;
 	}
-      for (j = 3; j < 10; j++)
-	{
+      for (j = 3; j < 10; j++){
 	  state->deck[i][j] = copper;
 	  state->deckCount[i]++;
 	}
     }
 
   //shuffle player decks
-  for (i = 0; i < numPlayers; i++)
-    {
-      if ( shuffle(i, state) < 0 )
-	{
+  for (i = 0; i < numPlayers; i++){
+      if ( shuffle(i, state) < 0 ){
 	  return -1;
 	}
     }
 
   //draw player hands
-  for (i = 0; i < numPlayers; i++)
-    {
+  for (i = 0; i < numPlayers; i++){
       //initialize hand size to zero
       state->handCount[i] = 0;
       state->discardCount[i] = 0;
@@ -170,13 +162,12 @@ int initializeGame(int numPlayers, int kingdomCards[10], int randomSeed,
       //	{
       //	  drawCard(i, state);
       //	}
-    }
+  }
 
   //set embargo tokens to 0 for all supply piles
-  for (i = 0; i <= treasure_map; i++)
-    {
-      state->embargoTokens[i] = 0;
-    }
+  for (i = 0; i <= treasure_map; i++){
+    state->embargoTokens[i] = 0;
+  }
 
   //initialize first player's turn
   state->outpostPlayed = 0;
@@ -187,20 +178,15 @@ int initializeGame(int numPlayers, int kingdomCards[10], int randomSeed,
   state->whoseTurn = 0;
   state->handCount[state->whoseTurn] = 0;
   //int it; move to top
-
   //Moved draw cards to here, only drawing at the start of a turn
   for (it = 0; it < 5; it++){
     drawCard(state->whoseTurn, state);
   }
-
   updateCoins(state->whoseTurn, state, 0);
-
   return 0;
 }
 
 int shuffle(int player, struct gameState *state) {
-
-
   int newDeck[MAX_DECK];
   int newDeckPos = 0;
   int card;
@@ -228,83 +214,62 @@ int shuffle(int player, struct gameState *state) {
   return 0;
 }
 
-int playCard(int handPos, int choice1, int choice2, int choice3, struct gameState *state)
-{
+int playCard(int handPos, int choice1, int choice2, int choice3, struct gameState *state) {
   int card;
   int coin_bonus = 0; 		//tracks coins gain from actions
-
   //check if it is the right phase
   if (state->phase != 0)
-    {
-      return -1;
-    }
-
+    return -1;
   //check if player has enough actions
   if ( state->numActions < 1 )
-    {
-      return -1;
-    }
-
+    return -1;
   //get card played
   card = handCard(handPos, state);
-
   //check if selected card is an action
   if ( card < adventurer || card > treasure_map )
-    {
-      return -1;
-    }
-
+    return -1;
   //play card
   if ( cardEffect(card, choice1, choice2, choice3, state, handPos, &coin_bonus) < 0 )
-    {
-      return -1;
-    }
-
+    return -1;
   //reduce number of actions
   state->numActions--;
-
   //update coins (Treasure cards may be added with card draws)
   updateCoins(state->whoseTurn, state, coin_bonus);
-
   return 0;
 }
 
 int buyCard(int supplyPos, struct gameState *state) {
   int who;
-  if (DEBUG){
+  if (DEBUG)
     printf("Entering buyCard...\n");
-  }
-
   // I don't know what to do about the phase thing.
-
   who = state->whoseTurn;
-
   if (state->numBuys < 1){
     if (DEBUG)
       printf("You do not have any buys left\n");
     return -1;
-  } else if (supplyCount(supplyPos, state) <1){
+  }
+  else if (supplyCount(supplyPos, state) <1){
     if (DEBUG)
       printf("There are not any of that type of card left\n");
     return -1;
-  } else if (state->coins < getCost(supplyPos)){
+  }
+  else if (state->coins < getCost(supplyPos)){
     if (DEBUG)
       printf("You do not have enough money to buy that. You have %d coins.\n", state->coins);
     return -1;
-  } else {
+  }
+  else {
     state->phase=1;
     //state->supplyCount[supplyPos]--;
     gainCard(supplyPos, state, 0, who); //card goes in discard, this might be wrong.. (2 means goes into hand, 0 goes into discard)
-
     state->coins = (state->coins) - (getCost(supplyPos));
     state->numBuys--;
     if (DEBUG)
       printf("You bought card number %d for %d coins. You now have %d buys and %d coins.\n", supplyPos, getCost(supplyPos), state->numBuys, state->coins);
   }
-
   //state->discard[who][state->discardCount[who]] = supplyPos;
   //state->discardCount[who]++;
-
   return 0;
 }
 
@@ -324,22 +289,12 @@ int supplyCount(int card, struct gameState *state) {
 int fullDeckCount(int player, int card, struct gameState *state) {
   int i;
   int count = 0;
-
   for (i = 0; i < state->deckCount[player]; i++)
-    {
       if (state->deck[player][i] == card) count++;
-    }
-
   for (i = 0; i < state->handCount[player]; i++)
-    {
       if (state->hand[player][i] == card) count++;
-    }
-
   for (i = 0; i < state->discardCount[player]; i++)
-    {
       if (state->discard[player][i] == card) count++;
-    }
-
   return count;
 }
 
@@ -388,29 +343,18 @@ int endTurn(struct gameState *state) {
 }
 
 int isGameOver(struct gameState *state) {
-  int i;
-  int j;
-
+  int i, j;
   //if stack of Province cards is empty, the game ends
   if (state->supplyCount[province] == 0)
-    {
       return 1;
-    }
-
   //if three supply pile are at 0, the game ends
   j = 0;
-  for (i = 0; i < 25; i++)
-    {
-      if (state->supplyCount[i] == 0)
-	{
-	  j++;
-	}
-    }
-  if ( j >= 3)
-    {
-      return 1;
-    }
-
+  for (i = 0; i < 25; i++) {
+    if (state->supplyCount[i] == 0)
+	   j++;
+  }
+  if (j >= 3)
+    return 1;
   return 0;
 }
 
@@ -1311,35 +1255,21 @@ int gainCard(int supplyPos, struct gameState *state, int toFlag, int player)
   return 0;
 }
 
-int updateCoins(int player, struct gameState *state, int bonus)
-{
+int updateCoins(int player, struct gameState *state, int bonus) {
   int i;
-
   //reset coin count
   state->coins = 0;
-
   //add coins for each Treasure card in player's hand
-  for (i = 0; i < state->handCount[player]; i++)
-    {
-      if (state->hand[player][i] == copper)
-	{
-	  state->coins += 1;
-	}
-      else if (state->hand[player][i] == silver)
-	{
-	  state->coins += 2;
-	}
-      else if (state->hand[player][i] == gold)
-	{
-	  state->coins += 3;
-	}
-    }
-
+  for (i = 0; i < state->handCount[player]; i++) {
+    if (state->hand[player][i] == copper)
+	   state->coins += 1;
+    else if (state->hand[player][i] == silver)
+	   state->coins += 2;
+    else if (state->hand[player][i] == gold)
+	   state->coins += 3;
+  }
   //add bonus
   state->coins += bonus;
-
   return 0;
 }
-
-
 //end of dominion.c

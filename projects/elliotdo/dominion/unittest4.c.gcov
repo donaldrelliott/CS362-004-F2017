@@ -1,0 +1,125 @@
+        -:    0:Source:unittest4.c
+        -:    0:Graph:unittest4.gcno
+        -:    0:Data:unittest4.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:/*
+        -:    2:  Author:   Donald Elliott
+        -:    3:  Class:    CS362-400
+        -:    4:  Testing:  updateCoins()
+        -:    5:*/
+        -:    6:
+        -:    7:#include "dominion.h"
+        -:    8:#include "dominion_helpers.h"
+        -:    9:#include <string.h>
+        -:   10:#include <stdio.h>
+        -:   11:#include <assert.h>
+        -:   12:#include <stdlib.h>
+        -:   13:#include "rngs.h"
+        -:   14:
+function main called 1 returned 100% blocks executed 86%
+        -:   15:int main () {
+        -:   16:    int i;
+        -:   17:    struct gameState G;
+        1:   18:    int k[10] = {adventurer, embargo, village, minion, mine, cutpurse,
+        -:   19:                sea_hag, tribute, smithy, council_room};
+        1:   20:    int testsFailed = 0;
+        -:   21:
+        1:   22:    int h1[5] = {smithy, minion, smithy, tribute, mine};
+        1:   23:    int h2[5] = {copper, copper, copper, copper, copper};
+        1:   24:    int h3[5] = {smithy, minion, gold, gold, copper};
+        1:   25:    int h4[5] = {gold, minion, embargo, village, mine};
+        1:   26:    int h5[5] = {silver, minion, minion, village, embargo};
+        1:   27:    int h6[5] = {copper, embargo, embargo, minion, mine};
+        -:   28:
+        1:   29:    initializeGame(2, k, 100, &G);
+        1:   30:    G.handCount[0] = 5;
+        1:   31:    printf("\nTesting updateCoins()");
+        -:   32:
+        -:   33:    // Testing no coins
+       12:   34:    for(i = 0; i < 5; i++)
+branch  0 taken 83%
+branch  1 taken 17%
+        5:   35:      G.hand[0][i] = h1[i];
+        1:   36:    updateCoins(0, &G, 0);
+        1:   37:    printf("\n1. Expected: %d  Reported: %d", 0, G.coins);
+        1:   38:    if (G.coins != 0)
+branch  0 taken 0%
+branch  1 taken 100%
+    #####:   39:      testsFailed++;
+        -:   40:    else
+        1:   41:      printf(" | Passed");
+        -:   42:
+        -:   43:    // Testing 5 copper
+       12:   44:    for(i = 0; i < 5; i++)
+branch  0 taken 83%
+branch  1 taken 17%
+        5:   45:      G.hand[0][i] = h2[i];
+        1:   46:    updateCoins(0, &G, 0);
+        1:   47:    printf("\n2. Expected: %d  Reported: %d", 5, G.coins);
+        1:   48:    if (G.coins != 5)
+branch  0 taken 0%
+branch  1 taken 100%
+    #####:   49:      testsFailed++;
+        -:   50:    else
+        1:   51:        printf(" | Passed");
+        -:   52:
+        -:   53:    // Testing typical hand
+       12:   54:    for(i = 0; i < 5; i++)
+branch  0 taken 83%
+branch  1 taken 17%
+        5:   55:      G.hand[0][i] = h3[i];
+        1:   56:    updateCoins(0, &G, 0);
+        1:   57:    printf("\n3. Expected: %d  Reported: %d", 7, G.coins);
+        1:   58:    if (G.coins != 7)
+branch  0 taken 0%
+branch  1 taken 100%
+    #####:   59:      testsFailed++;
+        -:   60:    else
+        1:   61:      printf(" | Passed");
+        -:   62:
+        -:   63:    // Testing 1 gold
+       12:   64:    for(i = 0; i < 5; i++)
+branch  0 taken 83%
+branch  1 taken 17%
+        5:   65:      G.hand[0][i] = h4[i];
+        1:   66:    updateCoins(0, &G, 0);
+        1:   67:    printf("\n4. Expected: %d  Reported: %d", 3, G.coins);
+        1:   68:    if (G.coins != 3)
+branch  0 taken 0%
+branch  1 taken 100%
+    #####:   69:      testsFailed++;
+        -:   70:    else
+        1:   71:      printf(" | Passed");
+        -:   72:
+        -:   73:    // Testing 1 silver
+       12:   74:    for(i = 0; i < 5; i++)
+branch  0 taken 83%
+branch  1 taken 17%
+        5:   75:      G.hand[0][i] = h5[i];
+        1:   76:    updateCoins(0, &G, 0);
+        1:   77:    printf("\n5. Expected: %d  Reported: %d", 2, G.coins);
+        1:   78:    if (G.coins != 2)
+branch  0 taken 0%
+branch  1 taken 100%
+    #####:   79:      testsFailed++;
+        -:   80:    else
+        1:   81:      printf(" | Passed");
+        -:   82:
+        -:   83:    // Testing 1 copper
+       12:   84:    for(i = 0; i < 5; i++)
+branch  0 taken 83%
+branch  1 taken 17%
+        5:   85:      G.hand[0][i] = h6[i];
+        1:   86:    updateCoins(0, &G, 0);
+        1:   87:    printf("\n6. Expected: %d  Reported: %d", 1, G.coins);
+        1:   88:    if (G.coins != 1)
+branch  0 taken 0%
+branch  1 taken 100%
+    #####:   89:      testsFailed++;
+        -:   90:    else
+        1:   91:      printf(" | Passed");
+        -:   92:
+        1:   93:    printf("\n%d OF 6 TESTS PASSED\n\n", 6-testsFailed);
+        1:   94:    return 0;
+        -:   95:}
