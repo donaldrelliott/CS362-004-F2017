@@ -508,7 +508,7 @@ int drawCard(int player, struct gameState *state){
     state->handCount[player]++;//Increment hand count
   }
 
-  else{
+  else {
     int count = state->handCount[player];//Get current hand count for player
     int deckCounter;
     if (DEBUG){//Debug statements
@@ -687,7 +687,6 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
   if (nextPlayer > (state->numPlayers - 1)){
     nextPlayer = 0;
   }
-
 
   //uses switch to select card and perform actions
   switch( card )
@@ -909,11 +908,10 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
 			}
 
 		      //draw 4
-		      for (j = 0; j < 4; j++)
-			{
+		      for (j = 0; j < 4; j++){
 			  drawCard(i, state);
 			}
-		    }
+    }
 		}
 	    }
 
@@ -921,27 +919,23 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
       return 0;
 
     case steward:
-      if (choice1 == 1)
-	{
+      if (choice1 == 1){
 	  //+2 cards
 	  drawCard(currentPlayer, state);
 	  drawCard(currentPlayer, state);
 	}
-      else if (choice1 == 2)
-	{
+      else if (choice1 == 2){
 	  //+2 coins
 	  state->coins = state->coins + 2;
 	}
-      else
-	{
+      else {
 	  //trash 2 cards in hand
 	  discardCard(choice2, currentPlayer, state, 1);
 	  discardCard(choice3, currentPlayer, state, 1);
 	}
-
-      //discard card from hand
-      discardCard(handPos, currentPlayer, state, 0);
-      return 0;
+  //discard card from hand
+  discardCard(handPos, currentPlayer, state, 0);
+  return 0;
 
     case tribute:
       if ((state->discardCount[nextPlayer] + state->deckCount[nextPlayer]) <= 1){

@@ -1,0 +1,1342 @@
+|============================|
+|       Random Test 1      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 361
+| Discard Count: 465
+| Card Number: 572
+| Coin Number: 12
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 361
+| Discard Count: 465
+| Card Number: 571
+| Coin Number: 12
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 2      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 311
+| Discard Count: 100
+| Card Number: 476
+| Coin Number: 5
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 311
+| Discard Count: 100
+| Card Number: 476
+| Coin Number: 5
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 3      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 438
+| Discard Count: 30
+| Card Number: 500
+| Coin Number: 9
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 438
+| Discard Count: 30
+| Card Number: 499
+| Coin Number: 9
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 4      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 74
+| Discard Count: 167
+| Card Number: 144
+| Coin Number: 10
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 74
+| Discard Count: 167
+| Card Number: 143
+| Coin Number: 10
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 5      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 366
+| Discard Count: 234
+| Card Number: 552
+| Coin Number: 6
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 366
+| Discard Count: 234
+| Card Number: 552
+| Coin Number: 6
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 6      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 397
+| Discard Count: 216
+| Card Number: 494
+| Coin Number: 9
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 397
+| Discard Count: 216
+| Card Number: 494
+| Coin Number: 9
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 7      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 320
+| Discard Count: 466
+| Card Number: 399
+| Coin Number: 11
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 320
+| Discard Count: 466
+| Card Number: 398
+| Coin Number: 11
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 8      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 440
+| Discard Count: 419
+| Card Number: 854
+| Coin Number: 13
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 440
+| Discard Count: 419
+| Card Number: 854
+| Coin Number: 13
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 9      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 484
+| Discard Count: 60
+| Card Number: 763
+| Coin Number: 6
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 484
+| Discard Count: 60
+| Card Number: 762
+| Coin Number: 6
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 10      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 431
+| Discard Count: 219
+| Card Number: 809
+| Coin Number: 14
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 431
+| Discard Count: 219
+| Card Number: 808
+| Coin Number: 14
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 11      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 127
+| Discard Count: 445
+| Card Number: 334
+| Coin Number: 5
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 127
+| Discard Count: 445
+| Card Number: 333
+| Coin Number: 5
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 12      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 129
+| Discard Count: 343
+| Card Number: 329
+| Coin Number: 14
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 129
+| Discard Count: 343
+| Card Number: 328
+| Coin Number: 14
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 13      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 151
+| Discard Count: 294
+| Card Number: 650
+| Coin Number: 9
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 151
+| Discard Count: 294
+| Card Number: 650
+| Coin Number: 9
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 14      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 311
+| Discard Count: 98
+| Card Number: 793
+| Coin Number: 9
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 311
+| Discard Count: 98
+| Card Number: 792
+| Coin Number: 9
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 15      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 370
+| Discard Count: 318
+| Card Number: 646
+| Coin Number: 14
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 370
+| Discard Count: 318
+| Card Number: 645
+| Coin Number: 14
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 16      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 134
+| Discard Count: 356
+| Card Number: 443
+| Coin Number: 6
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 134
+| Discard Count: 356
+| Card Number: 443
+| Coin Number: 6
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 17      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 250
+| Discard Count: 367
+| Card Number: 533
+| Coin Number: 7
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 250
+| Discard Count: 367
+| Card Number: 532
+| Coin Number: 7
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 18      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 158
+| Discard Count: 373
+| Card Number: 430
+| Coin Number: 9
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 158
+| Discard Count: 373
+| Card Number: 429
+| Coin Number: 9
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 19      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 173
+| Discard Count: 324
+| Card Number: 611
+| Coin Number: 6
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 173
+| Discard Count: 324
+| Card Number: 611
+| Coin Number: 6
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 20      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 446
+| Discard Count: 464
+| Card Number: 590
+| Coin Number: 9
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 446
+| Discard Count: 464
+| Card Number: 589
+| Coin Number: 9
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 21      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 459
+| Discard Count: 2
+| Card Number: 643
+| Coin Number: 7
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 459
+| Discard Count: 2
+| Card Number: 642
+| Coin Number: 7
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 22      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 284
+| Discard Count: 214
+| Card Number: 291
+| Coin Number: 13
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 284
+| Discard Count: 214
+| Card Number: 290
+| Coin Number: 13
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 23      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 385
+| Discard Count: 415
+| Card Number: 467
+| Coin Number: 5
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 385
+| Discard Count: 415
+| Card Number: 467
+| Coin Number: 5
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 24      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 288
+| Discard Count: 9
+| Card Number: 421
+| Coin Number: 8
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 288
+| Discard Count: 9
+| Card Number: 421
+| Coin Number: 8
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 25      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 277
+| Discard Count: 295
+| Card Number: 516
+| Coin Number: 10
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 277
+| Discard Count: 295
+| Card Number: 516
+| Coin Number: 10
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 26      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 408
+| Discard Count: 128
+| Card Number: 605
+| Coin Number: 10
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 408
+| Discard Count: 128
+| Card Number: 604
+| Coin Number: 10
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 27      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 94
+| Discard Count: 267
+| Card Number: 462
+| Coin Number: 12
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 94
+| Discard Count: 267
+| Card Number: 461
+| Coin Number: 12
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 28      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 476
+| Discard Count: 275
+| Card Number: 881
+| Coin Number: 12
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 476
+| Discard Count: 275
+| Card Number: 880
+| Coin Number: 12
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 29      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 166
+| Discard Count: 334
+| Card Number: 220
+| Coin Number: 5
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 166
+| Discard Count: 334
+| Card Number: 220
+| Coin Number: 5
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 30      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 315
+| Discard Count: 206
+| Card Number: 650
+| Coin Number: 13
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 315
+| Discard Count: 206
+| Card Number: 649
+| Coin Number: 13
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 31      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 158
+| Discard Count: 183
+| Card Number: 344
+| Coin Number: 13
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 158
+| Discard Count: 183
+| Card Number: 344
+| Coin Number: 13
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 32      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 438
+| Discard Count: 35
+| Card Number: 826
+| Coin Number: 12
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 438
+| Discard Count: 35
+| Card Number: 826
+| Coin Number: 12
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 33      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 183
+| Discard Count: 3
+| Card Number: 634
+| Coin Number: 14
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 183
+| Discard Count: 3
+| Card Number: 633
+| Coin Number: 14
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 34      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 437
+| Discard Count: 316
+| Card Number: 675
+| Coin Number: 10
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 437
+| Discard Count: 316
+| Card Number: 675
+| Coin Number: 10
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 35      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 354
+| Discard Count: 47
+| Card Number: 650
+| Coin Number: 10
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 354
+| Discard Count: 47
+| Card Number: 649
+| Coin Number: 10
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 36      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 50
+| Discard Count: 79
+| Card Number: 223
+| Coin Number: 6
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 50
+| Discard Count: 79
+| Card Number: 223
+| Coin Number: 6
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 37      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 194
+| Discard Count: 388
+| Card Number: 565
+| Coin Number: 7
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 194
+| Discard Count: 388
+| Card Number: 564
+| Coin Number: 7
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 38      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 142
+| Discard Count: 432
+| Card Number: 427
+| Coin Number: 10
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 142
+| Discard Count: 432
+| Card Number: 427
+| Coin Number: 10
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 39      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 307
+| Discard Count: 390
+| Card Number: 787
+| Coin Number: 12
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 307
+| Discard Count: 390
+| Card Number: 786
+| Coin Number: 12
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 40      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 187
+| Discard Count: 42
+| Card Number: 457
+| Coin Number: 8
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 187
+| Discard Count: 42
+| Card Number: 457
+| Coin Number: 8
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 41      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 225
+| Discard Count: 162
+| Card Number: 543
+| Coin Number: 8
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 225
+| Discard Count: 162
+| Card Number: 542
+| Coin Number: 8
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 42      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 271
+| Discard Count: 326
+| Card Number: 404
+| Coin Number: 13
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 271
+| Discard Count: 326
+| Card Number: 404
+| Coin Number: 13
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 43      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 135
+| Discard Count: 194
+| Card Number: 412
+| Coin Number: 12
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 135
+| Discard Count: 194
+| Card Number: 412
+| Coin Number: 12
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 44      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 426
+| Discard Count: 99
+| Card Number: 542
+| Coin Number: 6
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 426
+| Discard Count: 99
+| Card Number: 541
+| Coin Number: 6
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 45      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 232
+| Discard Count: 21
+| Card Number: 548
+| Coin Number: 11
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 232
+| Discard Count: 21
+| Card Number: 547
+| Coin Number: 11
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 46      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 90
+| Discard Count: 471
+| Card Number: 144
+| Coin Number: 6
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 90
+| Discard Count: 471
+| Card Number: 143
+| Coin Number: 6
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 47      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 86
+| Discard Count: 260
+| Card Number: 277
+| Coin Number: 11
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 86
+| Discard Count: 260
+| Card Number: 276
+| Coin Number: 11
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 48      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 331
+| Discard Count: 186
+| Card Number: 785
+| Coin Number: 8
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 331
+| Discard Count: 186
+| Card Number: 784
+| Coin Number: 8
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 49      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 100
+| Discard Count: 417
+| Card Number: 572
+| Coin Number: 13
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 100
+| Discard Count: 417
+| Card Number: 571
+| Coin Number: 13
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 50      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 252
+| Discard Count: 396
+| Card Number: 432
+| Coin Number: 14
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 252
+| Discard Count: 396
+| Card Number: 431
+| Coin Number: 14
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 51      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 39
+| Discard Count: 357
+| Card Number: 215
+| Coin Number: 13
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 39
+| Discard Count: 357
+| Card Number: 214
+| Coin Number: 13
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 52      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 264
+| Discard Count: 140
+| Card Number: 385
+| Coin Number: 12
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 264
+| Discard Count: 140
+| Card Number: 384
+| Coin Number: 12
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 53      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 71
+| Discard Count: 247
+| Card Number: 411
+| Coin Number: 8
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 71
+| Discard Count: 247
+| Card Number: 411
+| Coin Number: 8
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 54      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 434
+| Discard Count: 307
+| Card Number: 723
+| Coin Number: 14
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 434
+| Discard Count: 307
+| Card Number: 722
+| Coin Number: 14
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 55      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 419
+| Discard Count: 30
+| Card Number: 791
+| Coin Number: 11
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 419
+| Discard Count: 30
+| Card Number: 790
+| Coin Number: 11
+| Number of Actions: 3
+| TEST FAILURE
+
+|============================|
+|       Random Test 56      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 78
+| Discard Count: 233
+| Card Number: 457
+| Coin Number: 9
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 78
+| Discard Count: 233
+| Card Number: 457
+| Coin Number: 9
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 57      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 335
+| Discard Count: 10
+| Card Number: 799
+| Coin Number: 14
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 335
+| Discard Count: 10
+| Card Number: 799
+| Coin Number: 14
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 58      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 208
+| Discard Count: 480
+| Card Number: 481
+| Coin Number: 13
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 208
+| Discard Count: 480
+| Card Number: 481
+| Coin Number: 13
+| Number of Actions: 3
+| ALL TESTS PASSED
+
+|============================|
+|       Random Test 59      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 43
+| Discard Count: 80
+| Card Number: 45
+| Coin Number: 8
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 43
+| Discard Count: 80
+| Card Number: 44
+| Coin Number: 8
+| Number of Actions: 3
+| TEST FAILURE
+
+Function 'compare'
+Lines executed:83.33% of 6
+Branches executed:100.00% of 4
+Taken at least once:75.00% of 4
+No calls
+
+Function 'newGame'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'kingdomCards'
+Lines executed:0.00% of 12
+No branches
+No calls
+
+Function 'initializeGame'
+Lines executed:87.18% of 78
+Branches executed:95.65% of 46
+Taken at least once:82.61% of 46
+No calls
+
+Function 'shuffle'
+Lines executed:100.00% of 18
+Branches executed:100.00% of 8
+Taken at least once:100.00% of 8
+No calls
+
+Function 'playCard'
+Lines executed:0.00% of 14
+Branches executed:0.00% of 10
+Taken at least once:0.00% of 10
+No calls
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+No calls
+
+Function 'numHandCards'
+Lines executed:0.00% of 1
+No branches
+No calls
+
+Function 'handCard'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'supplyCount'
+Lines executed:0.00% of 1
+No branches
+No calls
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 8
+Branches executed:0.00% of 12
+Taken at least once:0.00% of 12
+No calls
+
+Function 'whoseTurn'
+Lines executed:100.00% of 1
+No branches
+No calls
+
+Function 'endTurn'
+Lines executed:0.00% of 22
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+No calls
+
+Function 'isGameOver'
+Lines executed:0.00% of 11
+Branches executed:0.00% of 8
+Taken at least once:0.00% of 8
+No calls
+
+Function 'scoreFor'
+Lines executed:0.00% of 26
+Branches executed:0.00% of 42
+Taken at least once:0.00% of 42
+No calls
+
+Function 'getWinners'
+Lines executed:0.00% of 33
+Branches executed:0.00% of 22
+Taken at least once:0.00% of 22
+No calls
+
+Function 'drawCard'
+Lines executed:70.83% of 24
+Branches executed:100.00% of 6
+Taken at least once:66.67% of 6
+No calls
+
+Function 'getCost'
+Lines executed:0.00% of 30
+Branches executed:0.00% of 28
+Taken at least once:0.00% of 28
+No calls
+
+Function 'newAdventurer'
+Lines executed:100.00% of 16
+Branches executed:100.00% of 12
+Taken at least once:83.33% of 12
+No calls
+
+Function 'newCouncilRoom'
+Lines executed:0.00% of 9
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+No calls
+
+Function 'newSmithy'
+Lines executed:100.00% of 4
+Branches executed:100.00% of 2
+Taken at least once:100.00% of 2
+No calls
+
+Function 'newGreatHall'
+Lines executed:0.00% of 7
+Branches executed:0.00% of 4
+Taken at least once:0.00% of 4
+No calls
+
+Function 'newVillage'
+Lines executed:100.00% of 4
+No branches
+No calls
+
+Function 'cardEffect'
+Lines executed:5.10% of 255
+Branches executed:12.85% of 179
+Taken at least once:2.79% of 179
+No calls
+
+Function 'discardCard'
+Lines executed:73.33% of 15
+Branches executed:100.00% of 6
+Taken at least once:50.00% of 6
+No calls
+
+Function 'gainCard'
+Lines executed:0.00% of 15
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+No calls
+
+Function 'updateCoins'
+Lines executed:81.82% of 11
+Branches executed:100.00% of 8
+Taken at least once:75.00% of 8
+No calls
+
+File 'dominion.c'
+Lines executed:26.02% of 638
+Branches executed:26.84% of 421
+Taken at least once:18.76% of 421
+No calls
+dominion.c:creating 'dominion.c.gcov'
+
