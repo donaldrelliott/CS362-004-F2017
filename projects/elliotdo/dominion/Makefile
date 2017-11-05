@@ -81,6 +81,19 @@ unittestresults.out: unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2
 	gcov -b cardtest4.c >> unittestresults.out
 	cat cardtest4.c.gcov >> unittestresults.out
 
+printRandom: printRandom
+	./randomtestadventurer 20 >> randomtestadventurer.out
+	./randomtestcard1 20 >> randomtestcard1.out
+	./randomtestcard2 20 >> randomtestcard2.out
+	gcov -f -b dominion.c >> randomtestadventurer.out
+	gcov -f -b dominion.c >> randomtestcard1.out
+	gcov -f -b dominion.c >> randomtestcard2.out
+
+randomTests:
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c randomtestcard1.c rngs.c -o randomtestcard1 -lm -g
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c randomtestcard2.c rngs.c -o randomtestcard2 -lm -g
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c randomtestadventurer.c rngs.c -o randomtestadventurer -lm -g
+
 player: player.c interface.o
 	gcc -o player player.c -g  dominion.o rngs.o interface.o $(CFLAGS)
 
