@@ -1,0 +1,1561 @@
+|============================|
+|       Random Test 1      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 431
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 432
+| TESTS FAILED.
+| Expected Hand Count: 433
+| Actual Hand Count: 432
+
+|============================|
+|       Random Test 2      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 255
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 256
+| TESTS FAILED.
+| Expected Hand Count: 257
+| Actual Hand Count: 256
+
+|============================|
+|       Random Test 3      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 82
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 83
+| TESTS FAILED.
+| Expected Hand Count: 84
+| Actual Hand Count: 83
+
+|============================|
+|       Random Test 4      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 200
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 201
+| TESTS FAILED.
+| Expected Hand Count: 202
+| Actual Hand Count: 201
+
+|============================|
+|       Random Test 5      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 154
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 155
+| TESTS FAILED.
+| Expected Hand Count: 156
+| Actual Hand Count: 155
+
+|============================|
+|       Random Test 6      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 446
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 447
+| TESTS FAILED.
+| Expected Hand Count: 448
+| Actual Hand Count: 447
+
+|============================|
+|       Random Test 7      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 55
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 56
+| TESTS FAILED.
+| Expected Hand Count: 57
+| Actual Hand Count: 56
+
+|============================|
+|       Random Test 8      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 457
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 458
+| TESTS FAILED.
+| Expected Hand Count: 459
+| Actual Hand Count: 458
+
+|============================|
+|       Random Test 9      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 371
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 372
+| TESTS FAILED.
+| Expected Hand Count: 373
+| Actual Hand Count: 372
+
+|============================|
+|       Random Test 10      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 103
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 104
+| TESTS FAILED.
+| Expected Hand Count: 105
+| Actual Hand Count: 104
+
+|============================|
+|       Random Test 11      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 30
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 31
+| TESTS FAILED.
+| Expected Hand Count: 32
+| Actual Hand Count: 31
+
+|============================|
+|       Random Test 12      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 483
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 484
+| TESTS FAILED.
+| Expected Hand Count: 485
+| Actual Hand Count: 484
+
+|============================|
+|       Random Test 13      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 275
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 276
+| TESTS FAILED.
+| Expected Hand Count: 277
+| Actual Hand Count: 276
+
+|============================|
+|       Random Test 14      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 453
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 454
+| TESTS FAILED.
+| Expected Hand Count: 455
+| Actual Hand Count: 454
+
+|============================|
+|       Random Test 15      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 454
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 455
+| TESTS FAILED.
+| Expected Hand Count: 456
+| Actual Hand Count: 455
+
+|============================|
+|       Random Test 16      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 98
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 99
+| TESTS FAILED.
+| Expected Hand Count: 100
+| Actual Hand Count: 99
+
+|============================|
+|       Random Test 17      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 464
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 465
+| TESTS FAILED.
+| Expected Hand Count: 466
+| Actual Hand Count: 465
+
+|============================|
+|       Random Test 18      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 156
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 157
+| TESTS FAILED.
+| Expected Hand Count: 158
+| Actual Hand Count: 157
+
+|============================|
+|       Random Test 19      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 17
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 18
+| TESTS FAILED.
+| Expected Hand Count: 19
+| Actual Hand Count: 18
+
+|============================|
+|       Random Test 20      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 214
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 215
+| TESTS FAILED.
+| Expected Hand Count: 216
+| Actual Hand Count: 215
+
+|============================|
+|       Random Test 21      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 493
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 494
+| TESTS FAILED.
+| Expected Hand Count: 495
+| Actual Hand Count: 494
+
+|============================|
+|       Random Test 22      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 364
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 365
+| TESTS FAILED.
+| Expected Hand Count: 366
+| Actual Hand Count: 365
+
+|============================|
+|       Random Test 23      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 450
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 451
+| TESTS FAILED.
+| Expected Hand Count: 452
+| Actual Hand Count: 451
+
+|============================|
+|       Random Test 24      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 490
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 491
+| TESTS FAILED.
+| Expected Hand Count: 492
+| Actual Hand Count: 491
+
+|============================|
+|       Random Test 25      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 128
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 129
+| TESTS FAILED.
+| Expected Hand Count: 130
+| Actual Hand Count: 129
+
+|============================|
+|       Random Test 26      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 204
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 205
+| TESTS FAILED.
+| Expected Hand Count: 206
+| Actual Hand Count: 205
+
+|============================|
+|       Random Test 27      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 332
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 333
+| TESTS FAILED.
+| Expected Hand Count: 334
+| Actual Hand Count: 333
+
+|============================|
+|       Random Test 28      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 25
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 26
+| TESTS FAILED.
+| Expected Hand Count: 27
+| Actual Hand Count: 26
+
+|============================|
+|       Random Test 29      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 250
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 251
+| TESTS FAILED.
+| Expected Hand Count: 252
+| Actual Hand Count: 251
+
+|============================|
+|       Random Test 30      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 178
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 179
+| TESTS FAILED.
+| Expected Hand Count: 180
+| Actual Hand Count: 179
+
+|============================|
+|       Random Test 31      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 398
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 399
+| TESTS FAILED.
+| Expected Hand Count: 400
+| Actual Hand Count: 399
+
+|============================|
+|       Random Test 32      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 0
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 1
+| TESTS FAILED.
+| Expected Hand Count: 2
+| Actual Hand Count: 1
+
+|============================|
+|       Random Test 33      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 455
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 456
+| TESTS FAILED.
+| Expected Hand Count: 457
+| Actual Hand Count: 456
+
+|============================|
+|       Random Test 34      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 329
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 330
+| TESTS FAILED.
+| Expected Hand Count: 331
+| Actual Hand Count: 330
+
+|============================|
+|       Random Test 35      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 398
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 399
+| TESTS FAILED.
+| Expected Hand Count: 400
+| Actual Hand Count: 399
+
+|============================|
+|       Random Test 36      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 469
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 470
+| TESTS FAILED.
+| Expected Hand Count: 471
+| Actual Hand Count: 470
+
+|============================|
+|       Random Test 37      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 377
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 378
+| TESTS FAILED.
+| Expected Hand Count: 379
+| Actual Hand Count: 378
+
+|============================|
+|       Random Test 38      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 162
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 163
+| TESTS FAILED.
+| Expected Hand Count: 164
+| Actual Hand Count: 163
+
+|============================|
+|       Random Test 39      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 478
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 479
+| TESTS FAILED.
+| Expected Hand Count: 480
+| Actual Hand Count: 479
+
+|============================|
+|       Random Test 40      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 340
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 341
+| TESTS FAILED.
+| Expected Hand Count: 342
+| Actual Hand Count: 341
+
+|============================|
+|       Random Test 41      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 210
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 211
+| TESTS FAILED.
+| Expected Hand Count: 212
+| Actual Hand Count: 211
+
+|============================|
+|       Random Test 42      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 181
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 182
+| TESTS FAILED.
+| Expected Hand Count: 183
+| Actual Hand Count: 182
+
+|============================|
+|       Random Test 43      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 140
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 141
+| TESTS FAILED.
+| Expected Hand Count: 142
+| Actual Hand Count: 141
+
+|============================|
+|       Random Test 44      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 397
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 398
+| TESTS FAILED.
+| Expected Hand Count: 399
+| Actual Hand Count: 398
+
+|============================|
+|       Random Test 45      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 29
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 30
+| TESTS FAILED.
+| Expected Hand Count: 31
+| Actual Hand Count: 30
+
+|============================|
+|       Random Test 46      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 263
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 264
+| TESTS FAILED.
+| Expected Hand Count: 265
+| Actual Hand Count: 264
+
+|============================|
+|       Random Test 47      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 319
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 320
+| TESTS FAILED.
+| Expected Hand Count: 321
+| Actual Hand Count: 320
+
+|============================|
+|       Random Test 48      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 409
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 410
+| TESTS FAILED.
+| Expected Hand Count: 411
+| Actual Hand Count: 410
+
+|============================|
+|       Random Test 49      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 46
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 47
+| TESTS FAILED.
+| Expected Hand Count: 48
+| Actual Hand Count: 47
+
+|============================|
+|       Random Test 50      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 399
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 400
+| TESTS FAILED.
+| Expected Hand Count: 401
+| Actual Hand Count: 400
+
+|============================|
+|       Random Test 51      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 259
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 260
+| TESTS FAILED.
+| Expected Hand Count: 261
+| Actual Hand Count: 260
+
+|============================|
+|       Random Test 52      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 484
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 485
+| TESTS FAILED.
+| Expected Hand Count: 486
+| Actual Hand Count: 485
+
+|============================|
+|       Random Test 53      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 137
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 138
+| TESTS FAILED.
+| Expected Hand Count: 139
+| Actual Hand Count: 138
+
+|============================|
+|       Random Test 54      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 110
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 111
+| TESTS FAILED.
+| Expected Hand Count: 112
+| Actual Hand Count: 111
+
+|============================|
+|       Random Test 55      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 320
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 321
+| TESTS FAILED.
+| Expected Hand Count: 322
+| Actual Hand Count: 321
+
+|============================|
+|       Random Test 56      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 79
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 80
+| TESTS FAILED.
+| Expected Hand Count: 81
+| Actual Hand Count: 80
+
+|============================|
+|       Random Test 57      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 233
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 234
+| TESTS FAILED.
+| Expected Hand Count: 235
+| Actual Hand Count: 234
+
+|============================|
+|       Random Test 58      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 100
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 101
+| TESTS FAILED.
+| Expected Hand Count: 102
+| Actual Hand Count: 101
+
+|============================|
+|       Random Test 59      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 14
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 15
+| TESTS FAILED.
+| Expected Hand Count: 16
+| Actual Hand Count: 15
+
+|============================|
+|       Random Test 60      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 16
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 17
+| TESTS FAILED.
+| Expected Hand Count: 18
+| Actual Hand Count: 17
+
+|============================|
+|       Random Test 61      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 378
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 379
+| TESTS FAILED.
+| Expected Hand Count: 380
+| Actual Hand Count: 379
+
+|============================|
+|       Random Test 62      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 2
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 3
+| TESTS FAILED.
+| Expected Hand Count: 4
+| Actual Hand Count: 3
+
+|============================|
+|       Random Test 63      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 305
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 306
+| TESTS FAILED.
+| Expected Hand Count: 307
+| Actual Hand Count: 306
+
+|============================|
+|       Random Test 64      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 196
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 197
+| TESTS FAILED.
+| Expected Hand Count: 198
+| Actual Hand Count: 197
+
+|============================|
+|       Random Test 65      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 394
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 395
+| TESTS FAILED.
+| Expected Hand Count: 396
+| Actual Hand Count: 395
+
+|============================|
+|       Random Test 66      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 405
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 406
+| TESTS FAILED.
+| Expected Hand Count: 407
+| Actual Hand Count: 406
+
+|============================|
+|       Random Test 67      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 243
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 244
+| TESTS FAILED.
+| Expected Hand Count: 245
+| Actual Hand Count: 244
+
+|============================|
+|       Random Test 68      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 194
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 195
+| TESTS FAILED.
+| Expected Hand Count: 196
+| Actual Hand Count: 195
+
+|============================|
+|       Random Test 69      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 387
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 388
+| TESTS FAILED.
+| Expected Hand Count: 389
+| Actual Hand Count: 388
+
+|============================|
+|       Random Test 70      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 193
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 194
+| TESTS FAILED.
+| Expected Hand Count: 195
+| Actual Hand Count: 194
+
+|============================|
+|       Random Test 71      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 370
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 371
+| TESTS FAILED.
+| Expected Hand Count: 372
+| Actual Hand Count: 371
+
+|============================|
+|       Random Test 72      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 393
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 394
+| TESTS FAILED.
+| Expected Hand Count: 395
+| Actual Hand Count: 394
+
+|============================|
+|       Random Test 73      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 221
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 222
+| TESTS FAILED.
+| Expected Hand Count: 223
+| Actual Hand Count: 222
+
+|============================|
+|       Random Test 74      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 366
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 367
+| TESTS FAILED.
+| Expected Hand Count: 368
+| Actual Hand Count: 367
+
+|============================|
+|       Random Test 75      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 260
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 261
+| TESTS FAILED.
+| Expected Hand Count: 262
+| Actual Hand Count: 261
+
+|============================|
+|       Random Test 76      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 211
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 212
+| TESTS FAILED.
+| Expected Hand Count: 213
+| Actual Hand Count: 212
+
+|============================|
+|       Random Test 77      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 379
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 380
+| TESTS FAILED.
+| Expected Hand Count: 381
+| Actual Hand Count: 380
+
+|============================|
+|       Random Test 78      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 7
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 8
+| TESTS FAILED.
+| Expected Hand Count: 9
+| Actual Hand Count: 8
+
+|============================|
+|       Random Test 79      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 489
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 490
+| TESTS FAILED.
+| Expected Hand Count: 491
+| Actual Hand Count: 490
+
+|============================|
+|       Random Test 80      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 479
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 480
+| TESTS FAILED.
+| Expected Hand Count: 481
+| Actual Hand Count: 480
+
+|============================|
+|       Random Test 81      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 304
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 305
+| TESTS FAILED.
+| Expected Hand Count: 306
+| Actual Hand Count: 305
+
+|============================|
+|       Random Test 82      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 235
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 236
+| TESTS FAILED.
+| Expected Hand Count: 237
+| Actual Hand Count: 236
+
+|============================|
+|       Random Test 83      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 135
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 136
+| TESTS FAILED.
+| Expected Hand Count: 137
+| Actual Hand Count: 136
+
+|============================|
+|       Random Test 84      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 98
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 99
+| TESTS FAILED.
+| Expected Hand Count: 100
+| Actual Hand Count: 99
+
+|============================|
+|       Random Test 85      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 452
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 453
+| TESTS FAILED.
+| Expected Hand Count: 454
+| Actual Hand Count: 453
+
+|============================|
+|       Random Test 86      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 119
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 120
+| TESTS FAILED.
+| Expected Hand Count: 121
+| Actual Hand Count: 120
+
+|============================|
+|       Random Test 87      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 118
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 119
+| TESTS FAILED.
+| Expected Hand Count: 120
+| Actual Hand Count: 119
+
+|============================|
+|       Random Test 88      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 280
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 281
+| TESTS FAILED.
+| Expected Hand Count: 282
+| Actual Hand Count: 281
+
+|============================|
+|       Random Test 89      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 73
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 74
+| TESTS FAILED.
+| Expected Hand Count: 75
+| Actual Hand Count: 74
+
+|============================|
+|       Random Test 90      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 427
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 428
+| TESTS FAILED.
+| Expected Hand Count: 429
+| Actual Hand Count: 428
+
+|============================|
+|       Random Test 91      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 231
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 232
+| TESTS FAILED.
+| Expected Hand Count: 233
+| Actual Hand Count: 232
+
+|============================|
+|       Random Test 92      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 70
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 71
+| TESTS FAILED.
+| Expected Hand Count: 72
+| Actual Hand Count: 71
+
+|============================|
+|       Random Test 93      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 197
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 198
+| TESTS FAILED.
+| Expected Hand Count: 199
+| Actual Hand Count: 198
+
+|============================|
+|       Random Test 94      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 399
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 400
+| TESTS FAILED.
+| Expected Hand Count: 401
+| Actual Hand Count: 400
+
+|============================|
+|       Random Test 95      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 485
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 486
+| TESTS FAILED.
+| Expected Hand Count: 487
+| Actual Hand Count: 486
+
+|============================|
+|       Random Test 96      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 460
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 461
+| TESTS FAILED.
+| Expected Hand Count: 462
+| Actual Hand Count: 461
+
+|============================|
+|       Random Test 97      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 150
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 151
+| TESTS FAILED.
+| Expected Hand Count: 152
+| Actual Hand Count: 151
+
+|============================|
+|       Random Test 98      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 339
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 340
+| TESTS FAILED.
+| Expected Hand Count: 341
+| Actual Hand Count: 340
+
+|============================|
+|       Random Test 99      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 365
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 366
+| TESTS FAILED.
+| Expected Hand Count: 367
+| Actual Hand Count: 366
+
+|============================|
+|       Random Test 100      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 69
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 70
+| TESTS FAILED.
+| Expected Hand Count: 71
+| Actual Hand Count: 70
+
+Function 'compare'
+Lines executed:83.33% of 6
+Branches executed:100.00% of 4
+Taken at least once:75.00% of 4
+No calls
+
+Function 'newGame'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'kingdomCards'
+Lines executed:0.00% of 12
+No branches
+No calls
+
+Function 'initializeGame'
+Lines executed:85.90% of 78
+Branches executed:95.65% of 46
+Taken at least once:80.43% of 46
+No calls
+
+Function 'shuffle'
+Lines executed:100.00% of 18
+Branches executed:100.00% of 8
+Taken at least once:100.00% of 8
+No calls
+
+Function 'playCard'
+Lines executed:0.00% of 14
+Branches executed:0.00% of 10
+Taken at least once:0.00% of 10
+No calls
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+No calls
+
+Function 'numHandCards'
+Lines executed:0.00% of 1
+No branches
+No calls
+
+Function 'handCard'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'supplyCount'
+Lines executed:0.00% of 1
+No branches
+No calls
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 11
+Branches executed:0.00% of 12
+Taken at least once:0.00% of 12
+No calls
+
+Function 'whoseTurn'
+Lines executed:100.00% of 1
+No branches
+No calls
+
+Function 'endTurn'
+Lines executed:0.00% of 22
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+No calls
+
+Function 'isGameOver'
+Lines executed:0.00% of 12
+Branches executed:0.00% of 8
+Taken at least once:0.00% of 8
+No calls
+
+Function 'scoreFor'
+Lines executed:0.00% of 26
+Branches executed:0.00% of 42
+Taken at least once:0.00% of 42
+No calls
+
+Function 'getWinners'
+Lines executed:0.00% of 33
+Branches executed:0.00% of 22
+Taken at least once:0.00% of 22
+No calls
+
+Function 'drawCard'
+Lines executed:70.83% of 24
+Branches executed:100.00% of 6
+Taken at least once:66.67% of 6
+No calls
+
+Function 'getCost'
+Lines executed:0.00% of 30
+Branches executed:0.00% of 28
+Taken at least once:0.00% of 28
+No calls
+
+Function 'cardEffect'
+Lines executed:4.98% of 261
+Branches executed:12.57% of 183
+Taken at least once:2.73% of 183
+No calls
+
+Function 'discardCard'
+Lines executed:73.33% of 15
+Branches executed:100.00% of 6
+Taken at least once:50.00% of 6
+No calls
+
+Function 'gainCard'
+Lines executed:0.00% of 15
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+No calls
+
+Function 'updateCoins'
+Lines executed:71.43% of 14
+Branches executed:100.00% of 8
+Taken at least once:75.00% of 8
+No calls
+
+Function 'cardEffectAdventurer'
+Lines executed:100.00% of 17
+Branches executed:100.00% of 12
+Taken at least once:83.33% of 12
+No calls
+
+Function 'cardEffectSmithy'
+Lines executed:100.00% of 5
+Branches executed:100.00% of 2
+Taken at least once:100.00% of 2
+No calls
+
+Function 'cardEffectVillage'
+Lines executed:100.00% of 3
+No branches
+No calls
+
+Function 'cardEffectOutpost'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'cardEffectEmbargo'
+Lines executed:0.00% of 7
+Branches executed:0.00% of 2
+Taken at least once:0.00% of 2
+No calls
+
+File 'dominion.c'
+Lines executed:25.89% of 645
+Branches executed:27.10% of 417
+Taken at least once:18.71% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+

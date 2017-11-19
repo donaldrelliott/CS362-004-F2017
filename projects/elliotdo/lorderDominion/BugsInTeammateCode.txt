@@ -1,0 +1,85 @@
+Donald Elliott
+CS362-400
+Due Date: 11/19/2017
+Bug Report
+
+Tester: Donald Elliott
+Code Author: Eric Lord
+
+BUG 1
+
+Title: Incorrect Treasure Card Count (Due to Adventurer)
+Project: Dominion Card Game
+Version: v1.0, Assignment 2 Refactored Code
+Type: Bug
+Status: Open
+Priority: Major
+Resolution: Not resolved
+File name: dominion.c
+Environments Tested In:	Flip ENGR server (gcc compiler)
+                       	macOS High Sierra 10.13.2 (gcc compiler)
+
+Description:		The error in this card occurs when the user
+			has more than two treasure cards. It is
+			easy to miss this one as correct numbers 
+			will be reported if treasure cards are
+			<= two.
+
+Code Causing Bug: 	Line 1285. The while loop runs to
+			drawntreasure<3, it should be terminating
+			at 2 instead for the correct outputs.
+
+Suggested Fix:		Change the value of 3 to 2.
+
+-------------
+
+BUG 2
+
+Title: Incorrect Card Count (Due to Smithy)
+Project: Dominion Card Game
+Version: v1.0, Assignment 2 Refactored Code
+Type: Bug
+Status: Open
+Priority: Major
+Resolution: Not resolved
+File name: dominion.c
+Environment Tested In:  Flip ENGR server (gcc compiler)
+                        macOS High Sierra 10.13.2 (gcc compiler)
+
+Description:		The error in this card occurs whenever
+			the smithy card is played. The hand
+			count should be up by 2 (gain 3, discard
+			1), but it only goes up 1.
+
+Code causing Bug:	Line 1313. The for loop is off by one 
+			digit. It should not be terminating at
+			< 2.
+
+Suggested Fix:		The line for(i=0; i<2, i++) should be 
+			changed to for(i=0; i<3; i++).
+
+--------------
+
+BUG 3
+
+Title: Incorrect Card Count (Due to Village)
+Project: Dominion Card Game
+Version: v1.0, Assignment 2 Refactored Code
+Type: Bug
+Status: Open
+Priority: Major
+Resolution: Not resolved
+File name: dominion.c
+Environment Tested In:  Flip ENGR server (gcc compiler)
+                        macOS High Sierra 10.13.2 (gcc compiler)
+
+Description:		The error in this card occurs whenever the
+			village card is played. The actions are
+			accurate, however it will not +1 a card.
+
+Code causing Bug:	Line 1326. Commented out the line
+			drawCard(currentPlayer, state), therefore it
+			won't +1 a card as it is expected to do.
+
+Suggested Fix:		Uncomment line 1327.
+

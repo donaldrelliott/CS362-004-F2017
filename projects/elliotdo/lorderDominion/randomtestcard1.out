@@ -1,0 +1,1461 @@
+|============================|
+|       Random Test 1      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 431
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 430
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 2      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 255
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 254
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 3      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 82
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 81
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 4      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 200
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 199
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 5      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 154
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 153
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 6      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 446
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 445
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 7      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 55
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 54
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 8      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 457
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 456
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 9      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 371
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 370
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 10      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 103
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 102
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 11      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 30
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 29
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 12      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 483
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 482
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 13      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 275
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 274
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 14      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 453
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 452
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 15      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 454
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 453
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 16      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 98
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 97
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 17      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 464
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 463
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 18      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 156
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 155
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 19      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 17
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 16
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 20      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 214
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 213
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 21      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 493
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 492
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 22      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 364
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 363
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 23      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 450
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 449
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 24      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 490
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 489
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 25      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 128
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 127
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 26      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 204
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 203
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 27      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 332
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 331
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 28      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 25
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 24
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 29      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 250
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 249
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 30      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 178
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 177
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 31      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 398
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 397
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 32      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 0
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: -1
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 33      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 455
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 454
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 34      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 329
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 328
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 35      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 398
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 397
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 36      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 469
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 468
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 37      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 377
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 376
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 38      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 162
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 161
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 39      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 478
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 477
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 40      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 340
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 339
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 41      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 210
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 209
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 42      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 181
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 180
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 43      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 140
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 139
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 44      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 397
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 396
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 45      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 29
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 28
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 46      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 263
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 262
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 47      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 319
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 318
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 48      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 409
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 408
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 49      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 46
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 45
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 50      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 399
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 398
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 51      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 259
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 258
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 52      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 484
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 483
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 53      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 137
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 136
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 54      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 110
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 109
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 55      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 320
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 319
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 56      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 79
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 78
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 57      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 233
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 232
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 58      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 100
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 99
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 59      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 14
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 13
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 60      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 16
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 15
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 61      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 378
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 377
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 62      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 2
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 1
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 63      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 305
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 304
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 64      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 196
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 195
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 65      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 394
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 393
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 66      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 405
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 404
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 67      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 243
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 242
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 68      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 194
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 193
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 69      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 387
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 386
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 70      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 193
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 192
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 71      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 370
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 369
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 72      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 393
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 392
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 73      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 221
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 220
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 74      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 366
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 365
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 75      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 260
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 259
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 76      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 211
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 210
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 77      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 379
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 378
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 78      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 7
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 6
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 79      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 489
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 488
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 80      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 479
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 478
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 81      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 304
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 303
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 82      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 235
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 234
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 83      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 135
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 134
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 84      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 98
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 97
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 85      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 452
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 451
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 86      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 119
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 118
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 87      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 118
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 117
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 88      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 280
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 279
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 89      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 73
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 72
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 90      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 427
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 426
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 91      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 231
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 230
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 92      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 70
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 69
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 93      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 197
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 196
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 94      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 399
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 398
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 95      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 485
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 484
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 96      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 460
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 459
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 97      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 150
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 149
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 98      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 339
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 338
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 99      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 365
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 364
+| Number of Actions: 3
+| TESTS FAILED.
+|============================|
+|       Random Test 100      
+|----------------------------|
+|      Before Using Card     |
+|----------------------------|
+| Hand Count: 69
+| Number of Actions: 1
+|----------------------------|
+|      After Using Card      |
+ ----------------------------|
+| Hand Count: 68
+| Number of Actions: 3
+| TESTS FAILED.
+Function 'compare'
+Lines executed:83.33% of 6
+Branches executed:100.00% of 4
+Taken at least once:75.00% of 4
+No calls
+
+Function 'newGame'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'kingdomCards'
+Lines executed:0.00% of 12
+No branches
+No calls
+
+Function 'initializeGame'
+Lines executed:85.90% of 78
+Branches executed:95.65% of 46
+Taken at least once:80.43% of 46
+No calls
+
+Function 'shuffle'
+Lines executed:100.00% of 18
+Branches executed:100.00% of 8
+Taken at least once:100.00% of 8
+No calls
+
+Function 'playCard'
+Lines executed:0.00% of 14
+Branches executed:0.00% of 10
+Taken at least once:0.00% of 10
+No calls
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+No calls
+
+Function 'numHandCards'
+Lines executed:0.00% of 1
+No branches
+No calls
+
+Function 'handCard'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'supplyCount'
+Lines executed:0.00% of 1
+No branches
+No calls
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 11
+Branches executed:0.00% of 12
+Taken at least once:0.00% of 12
+No calls
+
+Function 'whoseTurn'
+Lines executed:100.00% of 1
+No branches
+No calls
+
+Function 'endTurn'
+Lines executed:0.00% of 22
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+No calls
+
+Function 'isGameOver'
+Lines executed:0.00% of 12
+Branches executed:0.00% of 8
+Taken at least once:0.00% of 8
+No calls
+
+Function 'scoreFor'
+Lines executed:0.00% of 26
+Branches executed:0.00% of 42
+Taken at least once:0.00% of 42
+No calls
+
+Function 'getWinners'
+Lines executed:0.00% of 33
+Branches executed:0.00% of 22
+Taken at least once:0.00% of 22
+No calls
+
+Function 'drawCard'
+Lines executed:70.83% of 24
+Branches executed:100.00% of 6
+Taken at least once:66.67% of 6
+No calls
+
+Function 'getCost'
+Lines executed:0.00% of 30
+Branches executed:0.00% of 28
+Taken at least once:0.00% of 28
+No calls
+
+Function 'cardEffect'
+Lines executed:4.98% of 261
+Branches executed:12.57% of 183
+Taken at least once:2.73% of 183
+No calls
+
+Function 'discardCard'
+Lines executed:73.33% of 15
+Branches executed:100.00% of 6
+Taken at least once:50.00% of 6
+No calls
+
+Function 'gainCard'
+Lines executed:0.00% of 15
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+No calls
+
+Function 'updateCoins'
+Lines executed:71.43% of 14
+Branches executed:100.00% of 8
+Taken at least once:75.00% of 8
+No calls
+
+Function 'cardEffectAdventurer'
+Lines executed:100.00% of 17
+Branches executed:100.00% of 12
+Taken at least once:83.33% of 12
+No calls
+
+Function 'cardEffectSmithy'
+Lines executed:100.00% of 5
+Branches executed:100.00% of 2
+Taken at least once:100.00% of 2
+No calls
+
+Function 'cardEffectVillage'
+Lines executed:100.00% of 3
+No branches
+No calls
+
+Function 'cardEffectOutpost'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'cardEffectEmbargo'
+Lines executed:0.00% of 7
+Branches executed:0.00% of 2
+Taken at least once:0.00% of 2
+No calls
+
+File 'dominion.c'
+Lines executed:25.89% of 645
+Branches executed:27.10% of 417
+Taken at least once:18.71% of 417
+No calls
+dominion.c:creating 'dominion.c.gcov'
+

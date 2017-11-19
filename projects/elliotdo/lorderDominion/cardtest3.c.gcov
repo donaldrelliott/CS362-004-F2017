@@ -1,0 +1,99 @@
+        -:    0:Source:cardtest3.c
+        -:    0:Graph:cardtest3.gcno
+        -:    0:Data:cardtest3.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:/*
+        -:    2:  Author:   Donald Elliott
+        -:    3:  Class:    CS362-400
+        -:    4:  Testing:  village
+        -:    5:*/
+        -:    6:
+        -:    7:#include "dominion.h"
+        -:    8:#include "dominion_helpers.h"
+        -:    9:#include "interface.h"
+        -:   10:#include <string.h>
+        -:   11:#include <stdio.h>
+        -:   12:#include <assert.h>
+        -:   13:#include "rngs.h"
+        -:   14:#include <stdlib.h>
+        -:   15:
+function main called 1 returned 100% blocks executed 68%
+        -:   16:int main() {
+        1:   17:  int passed = 0, failedTests = 0, tests = 0, p1 = 0;
+        1:   18:  int position = 0, c1 = 0, c2 = 0, c3 = 0, bonus = 0;
+        1:   19:  int cards = 1;
+        1:   20:  int k[10] = { smithy, adventurer, village, mine, minion, steward, treasure_map, council_room, feast, gardens };
+        -:   21:  struct gameState G, test;
+        1:   22:  initializeGame(2, k, 100, &G);
+        -:   23:
+        1:   24:  printf("\nTesting village card\n");
+        1:   25:  memcpy(&test, &G, sizeof(struct gameState));
+        1:   26:  tests++;
+        1:   27:  printf("Hand count: %d\n", test.handCount[p1]);
+        1:   28:  printf("Expected: %d\n", G.handCount[p1]);
+        1:   29:  printf("Deck count: %d\n", test.deckCount[p1]);
+        1:   30:  printf("Expected: %d\n", G.deckCount[p1]);
+        2:   31:  if (test.handCount[p1] == G.handCount[p1] && test.deckCount[p1] == G.deckCount[p1])
+branch  0 taken 100%
+branch  1 taken 0%
+branch  2 taken 100%
+branch  3 taken 0%
+        1:   32:    printf("Hand and deck have expected count | Test Passed\n");
+        -:   33:  else {
+    #####:   34:    printf("Hand and deck do not have expected count | Test Failed\n");
+    #####:   35:    passed = 1;
+    #####:   36:    failedTests++;
+        -:   37:  }
+        1:   38:  tests++;
+        1:   39:  printf("\nAction count: %d\n", test.numActions);
+        1:   40:  printf("Expected: %d\n", G.numActions);
+        1:   41:  if (test.numActions == G.numActions)
+branch  0 taken 100%
+branch  1 taken 0%
+        1:   42:    printf("Action count has expected acount | Test Passed\n");
+        -:   43:  else {
+    #####:   44:    printf("Action count doesn't have expected acount | Test Failed\n");
+    #####:   45:    passed = 1;
+    #####:   46:    failedTests++;
+        -:   47:  }
+        1:   48:  cardEffect(village, c1, c2, c3, &test, position, &bonus);
+        1:   49:  printf("\nChecking hand/deck count after playing village card.\n");
+        1:   50:  tests++;
+        1:   51:  printf("Actual hand count: %d\n", test.handCount[p1]);
+        1:   52:  printf("Expected: %d\n", G.handCount[p1] + cards - 1);
+        1:   53:  printf("Actual deck count: %d\n", test.deckCount[p1]);
+        1:   54:  printf("expected: %d\n", G.deckCount[p1] - cards);
+        1:   55:  if (test.handCount[p1] == G.handCount[p1] + cards - 1 && test.deckCount[p1] == G.deckCount[p1] - cards)
+branch  0 taken 0%
+branch  1 taken 100%
+branch  2 never executed
+branch  3 never executed
+    #####:   56:    printf("Hand/deck have correct count | Test Passed\n");
+        -:   57:  else {
+        1:   58:    printf("Hand/deck don't have correct count | Test Failed\n");
+        1:   59:    passed = 1;
+        1:   60:    failedTests++;
+        -:   61:  }
+        1:   62:  printf("\nChecking player action count after playing village card.\n");
+        1:   63:  tests++;
+        1:   64:  printf("Current player action count: %d\n", test.numActions);
+        1:   65:  printf("Expected: %d\n", G.numActions + 2);
+        1:   66:  if (test.numActions == G.numActions + 2)
+branch  0 taken 100%
+branch  1 taken 0%
+        1:   67:    printf("Action count has correct count | Test Passed\n");
+        -:   68:  else {
+    #####:   69:    printf("Action count doesn't have correct count | Test Failed\n");
+    #####:   70:    passed = 1;
+    #####:   71:    failedTests++;
+        -:   72:  }
+        -:   73:
+        1:   74:  if (passed == 0)
+branch  0 taken 0%
+branch  1 taken 100%
+    #####:   75:    printf("\n%d out of %d tests passed\n\n", tests - failedTests, tests);
+        -:   76:  else
+        1:   77:    printf("\n%d out of %d tests passed\n\n", tests - failedTests, tests);
+        1:   78:  return 0;
+        -:   79:}

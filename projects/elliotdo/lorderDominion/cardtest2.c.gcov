@@ -1,0 +1,76 @@
+        -:    0:Source:cardtest2.c
+        -:    0:Graph:cardtest2.gcno
+        -:    0:Data:cardtest2.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:/*
+        -:    2:  Author:   Donald Elliott
+        -:    3:  Class:    CS362-400
+        -:    4:  Testing:  smithy
+        -:    5:*/
+        -:    6:
+        -:    7:#include "dominion.h"
+        -:    8:#include "dominion_helpers.h"
+        -:    9:#include "interface.h"
+        -:   10:#include <string.h>
+        -:   11:#include <stdio.h>
+        -:   12:#include <assert.h>
+        -:   13:#include "rngs.h"
+        -:   14:#include <stdlib.h>
+        -:   15:
+function main called 1 returned 100% blocks executed 69%
+        -:   16:int main() {
+        1:   17:  int passed = 0, failedTests = 0, totalTests = 0, thisPlayer = 0;
+        1:   18:  int position = 0, c1 = 0, c2 = 0, c3 = 0, bonus = 0;
+        1:   19:  int k[10] = { smithy, adventurer, village, mine, minion,
+        -:   20:              steward, treasure_map, council_room, feast, gardens };
+        -:   21:  struct gameState G, test;
+        1:   22:  initializeGame(2, k, 1000, &G);
+        -:   23:
+        1:   24:  printf("\nTesting smithy card\n");
+        -:   25:
+        1:   26:  memcpy(&test, &G, sizeof(struct gameState));
+        1:   27:  totalTests++;
+        1:   28:  printf("Hand count: %d\n", test.handCount[thisPlayer]);
+        1:   29:  printf("Expected: %d\n", G.handCount[thisPlayer]);
+        1:   30:  printf("Deck count: %d\n", test.deckCount[thisPlayer]);
+        1:   31:  printf("Expected: %d\n", G.deckCount[thisPlayer]);
+        2:   32:  if (test.handCount[thisPlayer] == G.handCount[thisPlayer] && test.deckCount[thisPlayer] == G.deckCount[thisPlayer])
+branch  0 taken 100%
+branch  1 taken 0%
+branch  2 taken 100%
+branch  3 taken 0%
+        1:   33:    printf("Hand/deck have correct count | Test Passed\n\n");
+        -:   34:  else {
+    #####:   35:    printf("Hand/deck don't have correct count | Test Failed\n\n");
+    #####:   36:    passed = 1;
+    #####:   37:    failedTests++;
+        -:   38:  }
+        1:   39:  cardEffect(smithy, c1, c2, c3, &test, position, &bonus);
+        1:   40:  printf("Check hand/deck count.\n");
+        1:   41:  totalTests++;
+        1:   42:  int cards = 3;
+        -:   43:
+        1:   44:  printf("Hand count: %d\n", test.handCount[thisPlayer]);
+        1:   45:  printf("Expected: %d\n", G.handCount[thisPlayer] + cards - 1);
+        1:   46:  printf("Deck count: %d\n", test.deckCount[thisPlayer]);
+        1:   47:  printf("Expected: %d\n", G.deckCount[thisPlayer] - cards);
+        1:   48:  if (test.handCount[thisPlayer] == G.handCount[thisPlayer] + cards - 1 && test.deckCount[thisPlayer] == G.deckCount[thisPlayer] - cards)
+branch  0 taken 0%
+branch  1 taken 100%
+branch  2 never executed
+branch  3 never executed
+    #####:   49:    printf("Hand/deck have correct count | Test Passed\n");
+        -:   50:  else {
+        1:   51:    printf("Hand/deck don't have expected count | Test Failed\n");
+        1:   52:    passed = 1;
+        1:   53:    failedTests++;
+        -:   54:  }
+        1:   55:  if (passed == 0)
+branch  0 taken 0%
+branch  1 taken 100%
+    #####:   56:    printf("\n%d out of 2 tests passed\n\n", totalTests - failedTests);
+        -:   57:  else
+        1:   58:    printf("\n%d out of 2 tests failed\n\n", failedTests);
+        1:   59:  return 0;
+        -:   60:}
